@@ -68,9 +68,8 @@ ol {
   flex-direction: column;
   align-items: flex-start;
   block-size: 298px;
-  inline-size: 399px;
+  inline-size: 417px;
   overflow-y: auto;
-  overflow-X: hidden;
 }
 
 .content__list-item {
@@ -211,7 +210,7 @@ ol {
   font-size: 18px;
   line-height: normal;
   background: transparent;
-  cursor: pointer;
+  cursor: text;
   appearance: none;
   border-top: 1px solid #FFF;
   border-bottom: 1px solid #FFF;
@@ -245,7 +244,7 @@ ol {
   line-height: normal;
   text-align: center;
   background: transparent;
-  cursor: text;
+  cursor: pointer;
   appearance: none;
 }
 
